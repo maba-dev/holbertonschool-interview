@@ -9,7 +9,6 @@
  * Return: 1 on success, 0 on failure
  */
 
-#include "slide_line.h"
 
 int slide_line(int *line, size_t size, int direction)
 {
