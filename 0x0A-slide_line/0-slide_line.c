@@ -1,5 +1,15 @@
 #include "slide_line.h"
 
+/**
+ * slide_line - slides and merges an array of integers
+ * @line: array of integers
+ * @size: size of the array
+ * @direction: direction to slide and merge the array
+ *
+ * Return: 1 on success, 0 on failure
+ */
+
+
 int slide_line(int *line, size_t size, int direction)
 {
 	int *place_here = NULL;
