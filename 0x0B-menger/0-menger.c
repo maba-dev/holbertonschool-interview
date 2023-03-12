@@ -1,5 +1,4 @@
 #include "menger.h"
-#include <math.h>
 
 /**
  * draw_square - function recursively draws a square at a given level
