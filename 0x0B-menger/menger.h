@@ -1,5 +1,5 @@
-#ifndef HOLBI
-#define HOLBI
+#ifndef MENGER_H
+#define MENGER_H
 
 
 #include <stdio.h>
